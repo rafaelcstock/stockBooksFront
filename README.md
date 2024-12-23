@@ -5,6 +5,6 @@
 <h2 align="center"> Link para acessar: https://stock-books-front.vercel.app/ </h2>
 <br>
 
-![image](![StockBooks](https://github.com/user-attachments/assets/48f2cad0-2d10-4a76-9d9c-78ee50c5b302)
+(![StockBooks](https://github.com/user-attachments/assets/48f2cad0-2d10-4a76-9d9c-78ee50c5b302)
 
 
